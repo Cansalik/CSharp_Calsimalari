@@ -1,0 +1,10 @@
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Extra_Araclar\Extra_Araclar\bin\Debug\Extra_Araclar.exe.config
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Extra_Araclar\Extra_Araclar\bin\Debug\Extra_Araclar.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Extra_Araclar\Extra_Araclar\bin\Debug\Extra_Araclar.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Extra_Araclar\Extra_Araclar\obj\Debug\Extra_Araclar.csprojAssemblyReference.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Extra_Araclar\Extra_Araclar\obj\Debug\Extra_Araclar.Form1.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Extra_Araclar\Extra_Araclar\obj\Debug\Extra_Araclar.Properties.Resources.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Extra_Araclar\Extra_Araclar\obj\Debug\Extra_Araclar.csproj.GenerateResource.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Extra_Araclar\Extra_Araclar\obj\Debug\Extra_Araclar.csproj.CoreCompileInputs.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Extra_Araclar\Extra_Araclar\obj\Debug\Extra_Araclar.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Extra_Araclar\Extra_Araclar\obj\Debug\Extra_Araclar.pdb

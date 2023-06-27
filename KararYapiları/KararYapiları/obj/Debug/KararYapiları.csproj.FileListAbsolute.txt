@@ -1,0 +1,10 @@
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KararYapiları\KararYapiları\bin\Debug\KararYapiları.exe.config
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KararYapiları\KararYapiları\bin\Debug\KararYapiları.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KararYapiları\KararYapiları\bin\Debug\KararYapiları.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KararYapiları\KararYapiları\obj\Debug\KararYapiları.csprojAssemblyReference.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KararYapiları\KararYapiları\obj\Debug\KararYapiları.Form1.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KararYapiları\KararYapiları\obj\Debug\KararYapiları.Properties.Resources.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KararYapiları\KararYapiları\obj\Debug\KararYapiları.csproj.GenerateResource.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KararYapiları\KararYapiları\obj\Debug\KararYapiları.csproj.CoreCompileInputs.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KararYapiları\KararYapiları\obj\Debug\KararYapiları.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KararYapiları\KararYapiları\obj\Debug\KararYapiları.pdb

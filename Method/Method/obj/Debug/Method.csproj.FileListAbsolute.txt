@@ -1,0 +1,10 @@
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Method\Method\bin\Debug\Method.exe.config
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Method\Method\bin\Debug\Method.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Method\Method\bin\Debug\Method.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Method\Method\obj\Debug\Method.csprojAssemblyReference.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Method\Method\obj\Debug\Method.Form1.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Method\Method\obj\Debug\Method.Properties.Resources.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Method\Method\obj\Debug\Method.csproj.GenerateResource.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Method\Method\obj\Debug\Method.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Method\Method\obj\Debug\Method.pdb

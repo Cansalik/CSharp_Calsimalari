@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31005.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extra_Araclar", "Extra_Araclar\Extra_Araclar.csproj", "{BCFCC9AF-1E46-48A4-9C7D-8708CAE242DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCFCC9AF-1E46-48A4-9C7D-8708CAE242DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCFCC9AF-1E46-48A4-9C7D-8708CAE242DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCFCC9AF-1E46-48A4-9C7D-8708CAE242DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCFCC9AF-1E46-48A4-9C7D-8708CAE242DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D9A1600B-2794-4998-9490-94E65ADE6A26}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,5 @@
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\EntityLayer\obj\Debug\EntityLayer.pdb

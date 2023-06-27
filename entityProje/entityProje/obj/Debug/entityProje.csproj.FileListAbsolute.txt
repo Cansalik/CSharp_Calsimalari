@@ -1,0 +1,38 @@
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\entityProje.exe.config
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\entityProje.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\entityProje.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\EntityFramework.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\EntityFramework.xml
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.csprojAssemblyReference.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.Properties.Resources.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.csproj.GenerateResource.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.csproj.CoreCompileInputs.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.csproj.CopyComplete
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.FrmAnaForm.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.FrmUrun.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.FrmIstatistik.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.FrmGiris.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.FrmKategori.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\entityProje.exe.config
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\entityProje.exe
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\entityProje.pdb
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\EntityFramework.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\EntityFramework.xml
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.csprojAssemblyReference.cache
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.FrmKategori.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.FrmAnaForm.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.FrmGiris.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.FrmIstatistik.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.FrmUrun.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.Properties.Resources.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.csproj.GenerateResource.cache
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.csproj.CoreCompileInputs.cache
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.csproj.CopyComplete
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.exe
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\entityProje\entityProje\obj\Debug\entityProje.pdb

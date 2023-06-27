@@ -1,0 +1,10 @@
+C:\Users\cansa\source\repos\ekstraYapılar\ekstraYapılar\bin\Debug\ekstraYapılar.exe.config
+C:\Users\cansa\source\repos\ekstraYapılar\ekstraYapılar\bin\Debug\ekstraYapılar.exe
+C:\Users\cansa\source\repos\ekstraYapılar\ekstraYapılar\bin\Debug\ekstraYapılar.pdb
+C:\Users\cansa\source\repos\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.csprojAssemblyReference.cache
+C:\Users\cansa\source\repos\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.Form1.resources
+C:\Users\cansa\source\repos\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.Properties.Resources.resources
+C:\Users\cansa\source\repos\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.csproj.GenerateResource.cache
+C:\Users\cansa\source\repos\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.csproj.CoreCompileInputs.cache
+C:\Users\cansa\source\repos\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.exe
+C:\Users\cansa\source\repos\ekstraYapılar\ekstraYapılar\obj\Debug\ekstraYapılar.pdb

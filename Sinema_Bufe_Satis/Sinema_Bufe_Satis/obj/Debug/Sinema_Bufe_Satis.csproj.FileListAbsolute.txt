@@ -1,0 +1,10 @@
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Sinema_Bufe_Satis\Sinema_Bufe_Satis\bin\Debug\Sinema_Bufe_Satis.exe.config
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Sinema_Bufe_Satis\Sinema_Bufe_Satis\bin\Debug\Sinema_Bufe_Satis.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Sinema_Bufe_Satis\Sinema_Bufe_Satis\bin\Debug\Sinema_Bufe_Satis.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.csprojAssemblyReference.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.Form1.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.Properties.Resources.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.csproj.GenerateResource.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.csproj.CoreCompileInputs.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Sinema_Bufe_Satis\Sinema_Bufe_Satis\obj\Debug\Sinema_Bufe_Satis.pdb

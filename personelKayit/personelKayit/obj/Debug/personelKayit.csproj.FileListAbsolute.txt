@@ -1,0 +1,220 @@
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\personelKayit.exe.config
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\personelKayit.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\personelKayit.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.csprojAssemblyReference.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.Properties.Resources.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.GenerateResource.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.CoreCompileInputs.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmIstatistik.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmAnaForm.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmGrafikler.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmGiris.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\EnvDTE.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\stdole.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.MSXML.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmRaporlar.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\RdlCompile.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\RdlCompile.compiled
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.CopyComplete
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\personelKayit.exe.config
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\personelKayit.exe
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\personelKayit.pdb
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\EnvDTE.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\stdole.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.csprojAssemblyReference.cache
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmAnaForm.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmGiris.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmGrafikler.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmIstatistik.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmRaporlar.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.Properties.Resources.resources
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.GenerateResource.cache
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.CoreCompileInputs.cache
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.CopyComplete
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.exe
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.pdb
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\personelKayit.exe.config
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\personelKayit.exe
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\personelKayit.pdb
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\EnvDTE.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\stdole.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\Microsoft.MSXML.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmAnaForm.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmGiris.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmGrafikler.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmIstatistik.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.FrmRaporlar.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.Properties.Resources.resources
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.GenerateResource.cache
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.CoreCompileInputs.cache
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.exe
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.pdb
+C:\Users\Neşet Can SALIK\Desktop\Projeler\Udemy_C#_Proje_MuratHoca\Proje_MuratHoca\Projects\personelKayit\personelKayit\obj\Debug\personelKayit.csproj.AssemblyReference.cache

@@ -1,0 +1,10 @@
+C:\Users\cansa\source\repos\tryCatch\tryCatch\bin\Debug\tryCatch.exe.config
+C:\Users\cansa\source\repos\tryCatch\tryCatch\bin\Debug\tryCatch.exe
+C:\Users\cansa\source\repos\tryCatch\tryCatch\bin\Debug\tryCatch.pdb
+C:\Users\cansa\source\repos\tryCatch\tryCatch\obj\Debug\tryCatch.csprojAssemblyReference.cache
+C:\Users\cansa\source\repos\tryCatch\tryCatch\obj\Debug\tryCatch.Form1.resources
+C:\Users\cansa\source\repos\tryCatch\tryCatch\obj\Debug\tryCatch.Properties.Resources.resources
+C:\Users\cansa\source\repos\tryCatch\tryCatch\obj\Debug\tryCatch.csproj.GenerateResource.cache
+C:\Users\cansa\source\repos\tryCatch\tryCatch\obj\Debug\tryCatch.csproj.CoreCompileInputs.cache
+C:\Users\cansa\source\repos\tryCatch\tryCatch\obj\Debug\tryCatch.exe
+C:\Users\cansa\source\repos\tryCatch\tryCatch\obj\Debug\tryCatch.pdb

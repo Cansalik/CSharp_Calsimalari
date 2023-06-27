@@ -1,0 +1,10 @@
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Diziler\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Diziler\Diziler\bin\Debug\Diziler.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Diziler\Diziler\bin\Debug\Diziler.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Diziler\Diziler\obj\Debug\Diziler.csprojAssemblyReference.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Diziler\Diziler\obj\Debug\Diziler.Form1.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Diziler\Diziler\obj\Debug\Diziler.Properties.Resources.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Diziler\Diziler\obj\Debug\Diziler.csproj.GenerateResource.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Diziler\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Diziler\Diziler\obj\Debug\Diziler.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\Diziler\Diziler\obj\Debug\Diziler.pdb

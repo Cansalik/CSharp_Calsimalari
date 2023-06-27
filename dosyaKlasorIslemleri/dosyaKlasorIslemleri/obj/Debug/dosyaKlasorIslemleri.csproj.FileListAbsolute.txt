@@ -1,0 +1,10 @@
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\dosyaKlasorIslemleri\dosyaKlasorIslemleri\bin\Debug\dosyaKlasorIslemleri.exe.config
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\dosyaKlasorIslemleri\dosyaKlasorIslemleri\bin\Debug\dosyaKlasorIslemleri.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\dosyaKlasorIslemleri\dosyaKlasorIslemleri\bin\Debug\dosyaKlasorIslemleri.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\dosyaKlasorIslemleri\dosyaKlasorIslemleri\obj\Debug\dosyaKlasorIslemleri.csprojAssemblyReference.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\dosyaKlasorIslemleri\dosyaKlasorIslemleri\obj\Debug\dosyaKlasorIslemleri.Form1.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\dosyaKlasorIslemleri\dosyaKlasorIslemleri\obj\Debug\dosyaKlasorIslemleri.Properties.Resources.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\dosyaKlasorIslemleri\dosyaKlasorIslemleri\obj\Debug\dosyaKlasorIslemleri.csproj.GenerateResource.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\dosyaKlasorIslemleri\dosyaKlasorIslemleri\obj\Debug\dosyaKlasorIslemleri.csproj.CoreCompileInputs.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\dosyaKlasorIslemleri\dosyaKlasorIslemleri\obj\Debug\dosyaKlasorIslemleri.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\dosyaKlasorIslemleri\dosyaKlasorIslemleri\obj\Debug\dosyaKlasorIslemleri.pdb

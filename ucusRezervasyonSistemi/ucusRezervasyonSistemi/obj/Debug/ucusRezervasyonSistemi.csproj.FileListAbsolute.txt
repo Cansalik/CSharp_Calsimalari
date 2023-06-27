@@ -1,0 +1,10 @@
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\ucusRezervasyonSistemi\ucusRezervasyonSistemi\bin\Debug\ucusRezervasyonSistemi.exe.config
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\ucusRezervasyonSistemi\ucusRezervasyonSistemi\bin\Debug\ucusRezervasyonSistemi.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\ucusRezervasyonSistemi\ucusRezervasyonSistemi\bin\Debug\ucusRezervasyonSistemi.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\ucusRezervasyonSistemi\ucusRezervasyonSistemi\obj\Debug\ucusRezervasyonSistemi.csprojAssemblyReference.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\ucusRezervasyonSistemi\ucusRezervasyonSistemi\obj\Debug\ucusRezervasyonSistemi.Form1.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\ucusRezervasyonSistemi\ucusRezervasyonSistemi\obj\Debug\ucusRezervasyonSistemi.Properties.Resources.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\ucusRezervasyonSistemi\ucusRezervasyonSistemi\obj\Debug\ucusRezervasyonSistemi.csproj.GenerateResource.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\ucusRezervasyonSistemi\ucusRezervasyonSistemi\obj\Debug\ucusRezervasyonSistemi.csproj.CoreCompileInputs.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\ucusRezervasyonSistemi\ucusRezervasyonSistemi\obj\Debug\ucusRezervasyonSistemi.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\ucusRezervasyonSistemi\ucusRezervasyonSistemi\obj\Debug\ucusRezervasyonSistemi.pdb

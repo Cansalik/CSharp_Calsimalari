@@ -1,0 +1,20 @@
+C:\Users\cansa\source\repos\KitaplikProje\KitaplikProje\bin\Debug\KitaplikProje.exe.config
+C:\Users\cansa\source\repos\KitaplikProje\KitaplikProje\bin\Debug\KitaplikProje.exe
+C:\Users\cansa\source\repos\KitaplikProje\KitaplikProje\bin\Debug\KitaplikProje.pdb
+C:\Users\cansa\source\repos\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.csprojAssemblyReference.cache
+C:\Users\cansa\source\repos\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.Form1.resources
+C:\Users\cansa\source\repos\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.Properties.Resources.resources
+C:\Users\cansa\source\repos\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.csproj.GenerateResource.cache
+C:\Users\cansa\source\repos\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.csproj.CoreCompileInputs.cache
+C:\Users\cansa\source\repos\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.exe
+C:\Users\cansa\source\repos\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KitaplikProje\KitaplikProje\bin\Debug\KitaplikProje.exe.config
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KitaplikProje\KitaplikProje\bin\Debug\KitaplikProje.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KitaplikProje\KitaplikProje\bin\Debug\KitaplikProje.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.csprojAssemblyReference.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.Form1.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.Properties.Resources.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.csproj.GenerateResource.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.csproj.CoreCompileInputs.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\KitaplikProje\KitaplikProje\obj\Debug\KitaplikProje.pdb

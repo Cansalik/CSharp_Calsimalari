@@ -1,0 +1,9 @@
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\DataAccessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Neşet Can SALIK\Documents\Visual Studio 2019\Projects\NKatmanliMimari\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

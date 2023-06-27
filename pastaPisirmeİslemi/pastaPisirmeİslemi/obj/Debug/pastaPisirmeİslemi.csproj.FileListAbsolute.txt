@@ -1,0 +1,10 @@
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\pastaPisirmeİslemi\pastaPisirmeİslemi\bin\Debug\pastaPisirmeİslemi.exe.config
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\pastaPisirmeİslemi\pastaPisirmeİslemi\bin\Debug\pastaPisirmeİslemi.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\pastaPisirmeİslemi\pastaPisirmeİslemi\bin\Debug\pastaPisirmeİslemi.pdb
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\pastaPisirmeİslemi\pastaPisirmeİslemi\obj\Debug\pastaPisirmeİslemi.csprojAssemblyReference.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\pastaPisirmeİslemi\pastaPisirmeİslemi\obj\Debug\pastaPisirmeİslemi.Form1.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\pastaPisirmeİslemi\pastaPisirmeİslemi\obj\Debug\pastaPisirmeİslemi.Properties.Resources.resources
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\pastaPisirmeİslemi\pastaPisirmeİslemi\obj\Debug\pastaPisirmeİslemi.csproj.GenerateResource.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\pastaPisirmeİslemi\pastaPisirmeİslemi\obj\Debug\pastaPisirmeİslemi.csproj.CoreCompileInputs.cache
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\pastaPisirmeİslemi\pastaPisirmeİslemi\obj\Debug\pastaPisirmeİslemi.exe
+C:\Users\cansa\Documents\Visual Studio 2019\Projects\pastaPisirmeİslemi\pastaPisirmeİslemi\obj\Debug\pastaPisirmeİslemi.pdb
